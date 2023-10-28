@@ -113,12 +113,16 @@
 
 ## 💡 Domain
 
-### GAME
-- [ ] 게임 횟수와 입력된 Car의 정보들을 담는다.
-
 ### Car
-- [ ] 이름과 전진 횟수를 담는다.
-- [ ] equals와 hashcode를 Override하여 이름만으로 동일한 판단을 가능하게 한다.
+- [x] 이름과 전진 횟수를 담는다.
+- [x] equals와 hashcode를 Override하여 이름만으로 동일한 판단을 가능하게 한다.
+
+<br>
+
+## 💡 DTO
+
+### GAME
+- [x] 게임 횟수와 입력된 Car의 정보들을 담는다.
 
 <br>
 
